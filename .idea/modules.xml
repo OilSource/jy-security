@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/jy-security.iml" filepath="$PROJECT_DIR$/.idea/jy-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-security-app/jy-security-app.iml" filepath="$PROJECT_DIR$/jy-security-app/jy-security-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-security-browser/jy-security-browser.iml" filepath="$PROJECT_DIR$/jy-security-browser/jy-security-browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-security-core/jy-security-core.iml" filepath="$PROJECT_DIR$/jy-security-core/jy-security-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jy-security-demo/jy-security-demo.iml" filepath="$PROJECT_DIR$/jy-security-demo/jy-security-demo.iml" />
+    </modules>
+  </component>
+</project>
